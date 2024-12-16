@@ -6,7 +6,7 @@
 	define("__TO__", "uvsarathy@gmail.com");
 
 	#Message subject
-	define("__SUBJECT__", "sarathyuv.com = From:");
+	define("__SUBJECT__", "sarathyuv.github.io/portfolio/ = From:");
 
 	#Success message
 	define('__SUCCESS_MESSAGE__', "Your message has been sent. Thank you!");
