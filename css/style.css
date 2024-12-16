@@ -72,7 +72,7 @@ header.active .navbar .navbar-brand {
 }
 
 .navbar .navbar-brand span {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 16px;
   font-weight: lighter;
   padding-left: 10px;
@@ -101,7 +101,7 @@ header.active .navbar .navbar-brand {
   padding: 35px 15px 30px;
   color: #666666 !important;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -181,7 +181,7 @@ div.megadrop {
 div.megadrop h2 {
   color: #eeeeee;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.6px;
@@ -207,7 +207,7 @@ div.megadrop ul li a {
   -o-transition: all 0.2s ease-in-out;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.6px;
@@ -267,7 +267,7 @@ header.transparent-style a.open-menu span {
   background: #fff;
 }
 header.transparent-style.active .navbar-default {
-  background: #000;
+  background: #03212C;
   border-bottom: none;
   opacity: 0.85;
 }
@@ -322,7 +322,7 @@ header.without-border .navbar-default {
   padding: 10px 0;
   color: #666666;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -360,7 +360,7 @@ header.without-border .navbar-default {
   display: none;
   color: #252525;
   font-size: 13px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   padding: 10px;
@@ -384,7 +384,7 @@ header.without-border .navbar-default {
   border-bottom: 1px solid #cccccc;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   padding: 16px 20px;
   margin: 0;
@@ -452,7 +452,7 @@ header.without-border .navbar-default {
   text-align: center;
   font-size: 14px;
   font-weight: 400;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   margin: 0 0 20px;
@@ -474,7 +474,7 @@ header.without-border .navbar-default {
   border-bottom: 1px solid #cccccc;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   padding: 16px 20px;
   background: transparent;
@@ -545,7 +545,7 @@ header.without-border .navbar-default {
 p {
   font-size: 13px;
   color: #888888;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 20px;
   font-weight: 300;
   margin: 0 0 10px;
@@ -578,7 +578,7 @@ p {
 }
 #content .tp-caption.NotGeneric-SubTitle {
   font-size: 18px;
-  font-family: 'Roboto', sans-serif !important;
+  font-family: "Poppins", sans-serif !important;
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 2px;
@@ -625,7 +625,7 @@ div.tp-parallax-wrap.tp-parallax-container {
   font-size: 14px;
   color: #888888;
   font-weight: 400;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-align: right;
   line-height: 20px;
 }
@@ -633,7 +633,7 @@ div.tp-parallax-wrap.tp-parallax-container {
   color: #222222;
 }
 .tp-caption.Fashion-BigDisplay {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   text-align: right;
   letter-spacing: 2px;
@@ -652,7 +652,7 @@ div.tp-parallax-wrap.tp-parallax-container {
   border-bottom: 1px solid #cccccc;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   padding: 16px 20px;
   margin: 0 0 25px;
@@ -669,7 +669,7 @@ div.tp-parallax-wrap.tp-parallax-container {
   border-bottom: 2px solid #222222;
   color: #222222;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   padding: 7px 10px;
   background: transparent;
@@ -685,7 +685,7 @@ div.tp-parallax-wrap.tp-parallax-container {
   background: #222222;
 }
 .tp-caption.Newspaper-Title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
@@ -776,7 +776,7 @@ section.slider-with-thumbs .tp-caption.Newspaper-Title {
 .carousel-line-posts .work-post .hover-box .inner-hover h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
@@ -930,7 +930,7 @@ section.slider-with-thumbs .tp-caption.Newspaper-Title {
 .scroller-posts-line .work-post .hover-box h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
@@ -992,7 +992,7 @@ section.slider-with-thumbs .tp-caption.Newspaper-Title {
   left: 30px;
   color: #fff;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .scroller-posts-line .project-post .post-gallery a.likes i {
   font-size: 30px;
@@ -1004,12 +1004,12 @@ section.slider-with-thumbs .tp-caption.Newspaper-Title {
 .scroller-posts-line .project-post .title-post h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
 }
 .scroller-posts-line .project-post .title-post h2 a {
@@ -1041,7 +1041,7 @@ section.slider-with-thumbs .tp-caption.Newspaper-Title {
   -o-transition: all 0.2s ease-in-out;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.4px;
 }
 .scroller-posts-line .project-post .title-post ul.project-tags li a:hover {
@@ -1111,7 +1111,7 @@ section.slider-with-thumbs .tp-caption.Newspaper-Title {
   -o-transition: all 0.2s ease-in-out;
   color: #fff;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   margin-bottom: 6px;
 }
 .portfolio-section .project-post .hover-box .inner-hover a.likes i {
@@ -1123,7 +1123,7 @@ section.slider-with-thumbs .tp-caption.Newspaper-Title {
 .portfolio-section .project-post .hover-box .inner-hover h2 {
   font-size: 14px;
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 1.5px;
@@ -1158,7 +1158,7 @@ section.slider-with-thumbs .tp-caption.Newspaper-Title {
   -o-transition: all 0.2s ease-in-out;
   color: #ffffff;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.4px;
 }
 .portfolio-section .project-post .hover-box .inner-hover ul.project-tags li a:hover {
@@ -1186,7 +1186,7 @@ section.slider-with-thumbs .tp-caption.Newspaper-Title {
   -o-transition: all 0.2s ease-in-out;
   color: #222222;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   padding: 7px 10px;
   background: transparent;
@@ -1221,14 +1221,14 @@ section.slider-with-thumbs .tp-caption.Newspaper-Title {
 .instagram-feed-section h1 {
   color: #222222;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   letter-spacing: 2px;
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-size: 18px;
   margin-bottom: 45px;
@@ -1269,7 +1269,7 @@ section.slider-with-thumbs .tp-caption.Newspaper-Title {
   -o-transition: all 0.2s ease-in-out;
   color: #eeeeee;
   font-size: 13px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 20px;
 }
 .instagram-feed-section ul.instagram-list li .hover-box a i {
@@ -1310,14 +1310,14 @@ section.main-title {
 section.main-title h1 {
   color: #222222;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   letter-spacing: 2px;
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
   font-size: 120px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 20px;
   margin-bottom: 0;
   font-weight: 700;
@@ -1326,12 +1326,12 @@ section.main-title h1 {
 section.main-title h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 36px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 3px;
   margin-bottom: 0;
 }
@@ -1378,13 +1378,20 @@ section.main-title h2 {
 .services-section .services-box .services-post h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   letter-spacing: 1.8px;
+}
+.services-section2 .services-box .services-post p {
+  color: #222222;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif; 
+  margin: 0 0 10px;
+  
 }
 .services-section .services-box .services-post h2 span {
   color: #888888;
@@ -1462,7 +1469,7 @@ section.autor-section .autor-box p {
   display: inline-block;
   color: #222222;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.4px;
   margin: 0 0 10px;
 }
@@ -1478,12 +1485,12 @@ section.autor-section .autor-box p {
 .blog-section .blog-box .blog-post .post-content h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 24px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.6px;
   font-weight: 400;
 }
@@ -1516,7 +1523,7 @@ section.autor-section .autor-box p {
   -o-transition: all 0.2s ease-in-out;
   color: #222222;
   font-size: 14px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .blog-section .blog-box .blog-post .post-content a.likes i {
   font-size: 11px;
@@ -1534,19 +1541,19 @@ section.autor-section .autor-box p {
   display: inline-block;
   color: #ffffff;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.4px;
   margin: 0;
 }
 .blog-section .blog-box .blog-post.quote-post h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 24px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.6px;
   font-weight: 400;
   color: #ffffff;
@@ -1556,7 +1563,7 @@ section.autor-section .autor-box p {
 .blog-section .blog-box .blog-post.quote-post h4 {
   color: #ffffff;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.4px;
   margin: 0 0 36px;
   padding-bottom: 36px;
@@ -1583,11 +1590,11 @@ section.autor-section .autor-box p {
 .subscribe-section form h1 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.6px;
   font-weight: 400;
   margin-bottom: 53px;
@@ -1601,7 +1608,7 @@ section.autor-section .autor-box p {
   border-bottom: 1px solid #cccccc;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   padding: 16px 20px;
   margin: 0;
@@ -1688,7 +1695,7 @@ section.autor-section .autor-box p {
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   color: #888888;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 12px;
   text-transform: uppercase;
 }
@@ -1699,7 +1706,7 @@ section.autor-section .autor-box p {
   content: '/';
   color: #aaa;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   margin-right: 8px;
 }
 .page-title-section ul li:first-child:before {
@@ -1709,13 +1716,13 @@ section.autor-section .autor-box p {
 .page-title-section h1 {
   color: #222222;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   letter-spacing: 2px;
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   margin: 0;
 }
@@ -1737,7 +1744,7 @@ section.autor-section .autor-box p {
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   color: #888888;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 12px;
   text-transform: uppercase;
   position: relative;
@@ -1797,12 +1804,12 @@ section.autor-section .autor-box p {
 .portfolio-section.float-style .portfolio-box .project-post .post-gallery .title-post h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
 }
 .portfolio-section.float-style .portfolio-box .project-post .post-gallery .title-post h2 a {
@@ -1834,7 +1841,7 @@ section.autor-section .autor-box p {
   -o-transition: all 0.2s ease-in-out;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.4px;
 }
 .portfolio-section.float-style .portfolio-box .project-post .post-gallery .title-post ul.project-tags li a:hover {
@@ -1898,7 +1905,7 @@ section.autor-section .autor-box p {
   left: 30px;
   color: #fff;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .portfolio-section.grid-with-text .portfolio-box .project-post .post-gallery a.likes i {
   font-size: 30px;
@@ -1910,12 +1917,12 @@ section.autor-section .autor-box p {
 .portfolio-section.grid-with-text .portfolio-box .project-post .title-post h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
 }
 .portfolio-section.grid-with-text .portfolio-box .project-post .title-post h2 a {
@@ -1947,7 +1954,7 @@ section.autor-section .autor-box p {
   -o-transition: all 0.2s ease-in-out;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.4px;
 }
 .portfolio-section.grid-with-text .portfolio-box .project-post .title-post ul.project-tags li a:hover {
@@ -2042,7 +2049,7 @@ section.gallery-section .slider-hold .project-post .post-gallery a.likes {
   left: 30px;
   color: #fff;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 section.gallery-section .slider-hold .project-post .post-gallery a.likes i {
   font-size: 30px;
@@ -2054,12 +2061,12 @@ section.gallery-section .slider-hold .project-post .title-post {
 section.gallery-section .slider-hold .project-post .title-post h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
 }
 section.gallery-section .slider-hold .project-post .title-post h2 a {
@@ -2092,7 +2099,7 @@ section.gallery-section .slider-hold .project-post .title-post ul.project-tags l
   -o-transition: all 0.2s ease-in-out;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.4px;
 }
 section.gallery-section .slider-hold .project-post .title-post ul.project-tags li a:hover {
@@ -2130,7 +2137,7 @@ section.portfolio-split-section .project-post .title-post a.likes {
   -o-transition: all 0.2s ease-in-out;
   color: #222222;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
@@ -2143,12 +2150,12 @@ section.portfolio-split-section .project-post .title-post > a.likes:hover {
 section.portfolio-split-section .project-post .title-post h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
 }
 section.portfolio-split-section .project-post .title-post h2 a {
@@ -2186,7 +2193,7 @@ section.portfolio-split-section .project-post .title-post ul.project-tags li a {
   -o-transition: all 0.2s ease-in-out;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.4px;
 }
 section.portfolio-split-section .project-post .title-post ul.project-tags li a:hover {
@@ -2217,12 +2224,12 @@ section.single-project-section .single-content .title-post {
 section.single-project-section .single-content .title-post h1 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
 }
 section.single-project-section .single-content .title-post ul.project-tags {
@@ -2243,7 +2250,7 @@ section.single-project-section .single-content .title-post ul.project-tags li a 
   -o-transition: all 0.2s ease-in-out;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.4px;
 }
 section.single-project-section .single-content .title-post ul.project-tags li a:hover {
@@ -2261,7 +2268,7 @@ section.single-project-section .single-content .title-post a.likes {
   -o-transition: all 0.2s ease-in-out;
   color: #222222;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 2px;
   margin: 0 0 10px;
 }
@@ -2275,12 +2282,12 @@ section.single-project-section .single-content .share-box span {
   display: inline-block;
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
 }
 section.single-project-section .single-content .share-box ul.social-icons {
@@ -2386,7 +2393,7 @@ section.project-images-section .image-place .hover-image a.pin-it span {
   display: block;
   color: #ffffff;
   font-size: 10px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.5px;
   margin: 0;
@@ -2411,12 +2418,12 @@ section.project-images-section .image-place .hover-image .text-hover {
 section.project-images-section .image-place .hover-image .text-hover h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   color: #fff;
 }
@@ -2449,7 +2456,7 @@ section.project-images-section .image-place:hover .hover-image {
   -o-transition: all 0.2s ease-in-out;
   color: #888888;
   font-size: 12px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -2569,11 +2576,11 @@ section.project-images-section .image-place:hover .hover-image {
 .sidebar .widget > h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 400;
   letter-spacing: 3px;
@@ -2606,7 +2613,7 @@ section.project-images-section .image-place:hover .hover-image {
   -moz-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 13px;
   color: #666666;
   letter-spacing: 2px;
@@ -2637,7 +2644,7 @@ section.project-images-section .image-place:hover .hover-image {
 .sidebar .popular-widget ul li .post-title h2 {
   font-size: 13px;
   color: #888888;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 20px;
   font-weight: 300;
   margin: 0 0 10px;
@@ -2659,13 +2666,13 @@ section.project-images-section .image-place:hover .hover-image {
 .sidebar .popular-widget ul li .post-title span {
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
 }
 .sidebar .subscribe-widget p {
   color: #666666;
   font-size: 13px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   line-height: 24px;
   margin-bottom: 15px;
@@ -2678,11 +2685,11 @@ section.project-images-section .image-place:hover .hover-image {
 .sidebar .subscribe-widget form h1 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.6px;
   font-weight: 400;
   margin-bottom: 53px;
@@ -2696,7 +2703,7 @@ section.project-images-section .image-place:hover .hover-image {
   border-bottom: 1px solid #cccccc;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   padding: 16px 20px;
   margin: 0;
@@ -2734,7 +2741,7 @@ ul.pagination-list li a {
   -moz-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #222222;
   font-size: 12px;
 }
@@ -2755,7 +2762,7 @@ ul.pagination-list li a.next {
 }
 ul.pagination-list li:nth-child(2):after {
   content: '/';
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #222222;
   font-size: 12px;
   margin: 0 4px 0 7px;
@@ -2827,7 +2834,7 @@ ul.pagination-list li:nth-child(2):after {
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   color: #888888;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 12px;
   position: relative;
 }
@@ -3005,13 +3012,13 @@ ul.pagination-list li:nth-child(2):after {
 .blog-section.standart.split-style .journal .hover-box h1 {
   color: #222222;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   letter-spacing: 2px;
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 100px;
   letter-spacing: 8px;
   line-height: 100px;
@@ -3022,11 +3029,11 @@ ul.pagination-list li:nth-child(2):after {
 .blog-section.standart.split-style .journal .hover-box h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 30px;
   letter-spacing: 1.5px;
   color: #ffffff;
@@ -3049,12 +3056,12 @@ ul.pagination-list li:nth-child(2):after {
 .blog-section.standart.single-post .blog-post h1 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 24px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1.6px;
   font-weight: 400;
 }
@@ -3077,7 +3084,7 @@ ul.pagination-list li:nth-child(2):after {
 .blog-section.standart.single-post .autor-post h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
@@ -3096,7 +3103,7 @@ ul.pagination-list li:nth-child(2):after {
 .blog-section.standart.single-post .comment-section h1 {
   color: #222222;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   margin: 0 0 12px;
   -webkit-font-smoothing: antialiased;
@@ -3135,7 +3142,7 @@ ul.pagination-list li:nth-child(2):after {
 .blog-section.standart.single-post .comment-section ul.comment-tree li .comment-box .comment-content h4 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
@@ -3149,7 +3156,7 @@ ul.pagination-list li:nth-child(2):after {
 .blog-section.standart.single-post .comment-section ul.comment-tree li .comment-box .comment-content a {
   font-size: 13px;
   color: #888888;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 20px;
   margin: 0 0 10px;
   font-size: 11px;
@@ -3195,7 +3202,7 @@ ul.pagination-list li:nth-child(2):after {
   border-radius: 0;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   border-color: transparent;
   border-bottom: 1px solid #cccccc;
@@ -3216,7 +3223,7 @@ ul.pagination-list li:nth-child(2):after {
   border-bottom: 2px solid #222222;
   color: #222222;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   padding: 7px 10px;
   background: transparent;
@@ -3237,7 +3244,7 @@ ul.pagination-list li:nth-child(2):after {
 .blog-section.standart.single-post .comment-section .comment-form .message {
   height: 30px;
   font-size: 13px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .blog-section.standart.single-post .comment-section .comment-form .message.error {
   color: #e74c3c;
@@ -3249,70 +3256,106 @@ ul.pagination-list li:nth-child(2):after {
 /* =  about pages
 /*-------------------------------------------------*/
 section.about-me-section {
-  background: #000;
-  padding-top: 30px;
+  
+  padding: 30px 0 100px;
+  background: linear-gradient(to right top, #000000, #140e13, #1b1923, #192434, #073141);
 }
 section.about-me-section .about-me-box {
   overflow: hidden;
-  margin: 0 -15px;
+  margin: 0;
 }
 section.about-me-section .about-me-box .my-identity {
   width: 50%;
   float: left;
   position: relative;
   text-align: center;
+  margin-top: 100px;
 }
 section.about-me-section .about-me-box .my-identity > img {
-  width: 100%;
+  width: 50%;
+  border-radius: 75%;
 }
 section.about-me-section .about-me-box .my-identity .hover-about {
   position: absolute;
-  top: 50%;
+  top: 70%;
   left: 0;
   width: 100%;
-  margin-top: -100px;
+  margin-top: -30px;
 }
 section.about-me-section .about-me-box .my-identity .hover-about h1 {
+    color: #ffffff;
+    font-size: 120px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin: 0;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff;
+}
+section.about-me-section .about-me-box .my-identity .hover-about h2 {
   color: #ffffff;
-  font-size: 120px;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 700;
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 5px;
   margin: 0;
+  padding: 0;
+
 }
+
 
 section.about-me-section .about-me-box .my-identity .hover-about img {
   max-width: 400px;
 }
 section.about-me-section .about-me-box .personal-info {
-  padding: 150px 0 0;
+  padding: 100px 0 0;
   width: 50%;
   float: right;
 }
 section.about-me-section .about-me-box .personal-info h1 {
   color: #cccccc;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   letter-spacing: 2px;
-  margin: 0 0 12px;
+  margin: 0 0 15px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
-  font-family: 'Montserrat', sans-serif;
   line-height: 42px;
-  font-weight: 700;
-  letter-spacing: 2.5px;
-  margin-bottom: 15px;
+
 }
+
+section.about-me-section .about-me-box .personal-info .statistic-box {
+  margin: 0px;
+  padding: 20px 0;
+}
+section.about-me-section .about-me-box .personal-info .statistic-box h1, section.about-me-section .about-me-box .personal-info .statistic-box h3 {
+  margin: 0;
+  padding: 0;
+}
+section.about-me-section .about-me-box .personal-info .statistic-box h3 {
+  color: #cccccc;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 1px;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
 section.about-me-section .about-me-box .personal-info h4 {
   color: #cccccc;
   padding: 10px 0 20px;
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 0.6px;
 }
 section.about-me-section .about-me-box .personal-info p {
-  max-width: 500px;
+  max-width: 550px;
   letter-spacing: 0.6px;
   margin-bottom: 15px;
+  font-size: 14px;
 }
 section.about-me-section .about-me-box .personal-info .skills-box {
   max-width: 500px;
@@ -3322,7 +3365,7 @@ section.about-me-section .about-me-box .personal-info .skills-box {
 section.about-me-section .about-me-box .personal-info .skills-box h3 {
   color: #ccc;
   font-size: 13px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.8px;
@@ -3335,7 +3378,7 @@ section.about-me-section .about-me-box .personal-info .programming-skills {
 section.about-me-section .about-me-box .personal-info .programming-skills h3 {
   color: #ccc;
   font-size: 13px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.8px;
@@ -3353,6 +3396,7 @@ section.about-me-section .about-me-box .personal-info .programming-skills ul {
 }
 section.about-me-section .about-me-box .personal-info .programming-skills ul li {
   display: inline-flex;
+  font-size: 12px;
   align-items: center;
   border: 1px dashed #888;
   border-radius: 2em;
@@ -3379,14 +3423,14 @@ section.story-skills-section {
 section.story-skills-section .story-skills-box .my-story h1 {
   color: #222222;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   letter-spacing: 2px;
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 42px;
   font-weight: 700;
   letter-spacing: 2.5px;
@@ -3404,7 +3448,7 @@ section.story-skills-section .story-skills-box .statistic-box .statistic-post {
 section.story-skills-section .story-skills-box .statistic-box .statistic-post h3 {
   color: #ffffff;
   font-size: 13px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.8px;
@@ -3413,9 +3457,19 @@ section.story-skills-section .story-skills-box .statistic-box .statistic-post h3
 section.story-skills-section .story-skills-box .statistic-box .statistic-post p span.timer {
   color: #ffffff;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   letter-spacing: 2.5px;
+}
+section.about-me-section .about-me-box .statistic-box .statistic-post p span.timer {
+  color: #ffffff;
+  font-size: 3.5rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  letter-spacing: 2.5px;
+  -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff;
 }
 section.story-skills-section .story-skills-box .clients-box ul.client-list {
   overflow: hidden;
@@ -3462,7 +3516,7 @@ section.about-banner-section {
 section.about-banner-section .about-banner-box h1 {
   color: #ffffff;
   font-size: 120px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 5px;
@@ -3472,14 +3526,14 @@ section.about-banner-section .about-banner-box h1 {
 section.about-banner-section .about-banner-box h2 {
   color: #222222;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   letter-spacing: 2px;
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 42px;
   font-weight: 700;
   letter-spacing: 2.5px;
@@ -3498,7 +3552,7 @@ section.team-section .title-section span {
   display: inline-block;
   color: #888888;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   margin: 0 0 60px;
@@ -3526,7 +3580,7 @@ section.team-section .team-box .team-post .team-gal img {
 section.team-section .team-box .team-post h2 {
   color: #222222;
   font-size: 24px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1.5px;
@@ -3536,7 +3590,7 @@ section.team-section .team-box .team-post span {
   display: inline-block;
   color: #222222;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 0.6px;
   margin: 0 0 25px;
 }
@@ -3599,7 +3653,7 @@ section.clients-section .clients-box .client-post .hover-client .inner-hover {
 section.clients-section .clients-box .client-post .hover-client .inner-hover h3 {
   color: #888888;
   font-size: 18px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -3618,7 +3672,7 @@ section.back-gallery-section .flexslider .hover-description {
 section.back-gallery-section .flexslider .hover-description h3 {
   color: #ffffff;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.9px;
@@ -3641,7 +3695,7 @@ section.statistic-section .statistic-box .statistic-post {
 section.statistic-section .statistic-box .statistic-post h3 {
   color: #222222;
   font-size: 13px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.8px;
@@ -3650,7 +3704,7 @@ section.statistic-section .statistic-box .statistic-post h3 {
 section.statistic-section .statistic-box .statistic-post p span.timer {
   color: #222222;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   letter-spacing: 2.5px;
 }
@@ -3715,7 +3769,7 @@ div.title-section {
 div.title-section h1 {
   color: #222222;
   font-size: 36px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   margin: 0;
   font-weight: 700;
   text-transform: uppercase;
@@ -3798,15 +3852,12 @@ section.services-section2 .services-box .services-post > a:hover {
   opacity: 0.7;
 }
 section.services-section2 .services-box .services-post h2 {
-  color: #222222;
+  color: #03212C;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 400;
-  font-size: 13px;
   letter-spacing: 1.8px;
   margin-bottom: 30px;
 }
@@ -3850,12 +3901,12 @@ section.testimonial-section .testimonial-box p {
 section.testimonial-section .testimonial-box h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-size: 24px;
   letter-spacing: 2px;
@@ -3865,7 +3916,7 @@ section.testimonial-section .testimonial-box span {
   display: inline-block;
   color: #ffffff;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 0.6px;
   margin: 0;
 }
@@ -3897,19 +3948,19 @@ section.testimonial-section.black-testimonial .testimonial-box span {
   display: inline-block;
   color: #eeeeee;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 0.6px;
   margin: 0 0 20px;
 }
 .package-section .package-box .package-item h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-size: 24px;
   letter-spacing: 2px;
@@ -3930,12 +3981,12 @@ section.testimonial-section.black-testimonial .testimonial-box span {
 .package-section .package-box .package-item h3 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-size: 36px;
   letter-spacing: 2px;
@@ -3950,7 +4001,7 @@ section.testimonial-section.black-testimonial .testimonial-box span {
   display: block;
   color: #ccc;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 0.7px;
   line-height: 36px;
 }
@@ -3963,7 +4014,7 @@ section.testimonial-section.black-testimonial .testimonial-box span {
   -o-transition: all 0.2s ease-in-out;
   color: #ffffff;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   padding: 7px 10px;
   background: transparent;
@@ -4051,11 +4102,11 @@ section.services-section3 .services-box .services-post div.hover-box > a:hover {
 section.services-section3 .services-box .services-post div.hover-box h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #ffffff;
   font-weight: 400;
   font-size: 13px;
@@ -4096,14 +4147,14 @@ section.services-section3 .services-box .services-post div.hover-box p {
   display: inline-block;
   color: #222222;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   letter-spacing: 2px;
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
   font-weight: 700;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 120px;
   color: #ffffff;
   margin-bottom: 10px;
@@ -4113,13 +4164,13 @@ section.services-section3 .services-box .services-post div.hover-box p {
 .error-section h1 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 14px;
   font-weight: 400;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #ffffff;
   letter-spacing: 2px;
   line-height: 24px;
@@ -4145,7 +4196,7 @@ section.services-section3 .services-box .services-post div.hover-box p {
   border-bottom: 1px solid #eeeeee;
   color: #ffffff;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   padding: 16px 20px;
   margin: 0;
@@ -4195,13 +4246,13 @@ section.services-section3 .services-box .services-post div.hover-box p {
 }
 .comming-soon-section .comming-soon-content h1 {
   color: #222222;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
   font-weight: 700;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 36px;
   color: #ffffff;
   margin-bottom: 10px;
@@ -4223,13 +4274,13 @@ section.services-section3 .services-box .services-post div.hover-box p {
 .comming-soon-section .comming-soon-content form h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 14px;
   font-weight: 400;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #ffffff;
   letter-spacing: 2px;
   line-height: 24px;
@@ -4244,7 +4295,7 @@ section.services-section3 .services-box .services-post div.hover-box p {
   border-bottom: 1px solid #eeeeee;
   color: #ffffff;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   padding: 16px 20px;
   margin: 0;
@@ -4277,7 +4328,7 @@ section.services-section3 .services-box .services-post div.hover-box p {
 }
 #clock .comming-part span {
   display: block;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   color: #ffffff;
   font-size: 120px;
@@ -4288,7 +4339,7 @@ section.services-section3 .services-box .services-post div.hover-box p {
 #clock .comming-part p {
   text-transform: uppercase;
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 2px;
   font-size: 14px;
   margin-bottom: 0;
@@ -4320,7 +4371,7 @@ section.services-section3 .services-box .services-post div.hover-box p {
 .section-name {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1.8px;
@@ -4358,13 +4409,13 @@ section.contact-section .contact-form-part {
 section.contact-section .contact-form-part h1 {
   color: #222222;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   letter-spacing: 2px;
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   margin: 0 0 30px;
 }
@@ -4390,7 +4441,7 @@ form#review-form textarea {
   border-bottom: 1px solid #cccccc;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   padding: 16px 20px;
   margin: 0 0 25px;
@@ -4409,7 +4460,7 @@ form#review-form input[type="submit"] {
   border-bottom: 2px solid #222222;
   color: #222222;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   padding: 7px 10px;
   background: transparent;
@@ -4443,7 +4494,7 @@ form#review-form input[type="submit"]:hover {
 .contact-info-section h3 {
   color: #fffefe;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   letter-spacing: 1.8px;
   text-transform: uppercase;
@@ -4473,13 +4524,13 @@ form#review-form input[type="submit"]:hover {
 .contact-section.second-style .contact-form-part h1 {
   color: #222222;
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   letter-spacing: 2px;
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   margin: 0 0 30px;
 }
@@ -4495,7 +4546,7 @@ form#review-form input[type="submit"]:hover {
 .contact-section.second-style .contact-form-part .info-data h3 {
   color: #222222;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   letter-spacing: 1.8px;
   text-transform: uppercase;
@@ -4521,7 +4572,7 @@ section.shop-banner-section {
 section.shop-banner-section h1 {
   color: #ffffff;
   font-size: 36px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -4546,7 +4597,7 @@ section.shop-section .shop-bar select {
   border: 1px solid #cccccc;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   text-transform: uppercase;
   padding: 8px 10px;
@@ -4595,7 +4646,7 @@ section.shop-section .shop-box .shop-post .shop-gal .hover-box .inner-hover a {
   -o-transition: all 0.2s ease-in-out;
   color: #ccc;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.6px;
@@ -4636,7 +4687,7 @@ section.shop-section .shop-box .shop-post .shop-gal span.sale {
   line-height: 70px;
   color: #ccc;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.6px;
@@ -4651,7 +4702,7 @@ section.shop-section .shop-box .shop-post .post-content span {
   display: inline-block;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 0.6px;
   margin: 0 0 10px;
 }
@@ -4664,7 +4715,7 @@ section.shop-section .shop-box .shop-post .post-content span.old-price {
 }
 section.shop-section .shop-box .shop-post .post-content h2 {
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -4691,7 +4742,7 @@ section.shop-section .shop-services span {
   width: 350px;
   padding: 20px 10px;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -4719,7 +4770,7 @@ section.shop-section.with-sidebar .shop-box {
 }
 .shop-sidebar .shop-widget > h2 {
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -4744,7 +4795,7 @@ section.shop-section.with-sidebar .shop-box {
   -o-transition: all 0.2s ease-in-out;
   color: #888888;
   font-size: 13px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 0.6px;
   position: relative;
 }
@@ -4789,7 +4840,7 @@ section.shop-section.with-sidebar .shop-box {
 .shop-sidebar .product-widget ul li h2 {
   font-size: 13px;
   color: #888888;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 20px;
   font-weight: 300;
   margin: 0 0 10px;
@@ -4812,7 +4863,7 @@ section.shop-section.with-sidebar .shop-box {
   color: #888888;
   font-size: 12px;
   font-weight: 300;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   margin: 0;
 }
 .shop-sidebar .product-widget ul li:last-child {
@@ -4842,7 +4893,7 @@ section.shop-section.with-sidebar .shop-box {
   display: inline-block;
   color: #222222;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .filter-widget .values #start-val,
 .filter-widget .values #end-val {
@@ -4852,7 +4903,7 @@ section.shop-section.with-sidebar .shop-box {
   padding: 0;
   color: #222222;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .filter-widget a {
   display: inline-block;
@@ -4863,7 +4914,7 @@ section.shop-section.with-sidebar .shop-box {
   -o-transition: all 0.2s ease-in-out;
   padding: 5px 12px;
   color: #222222;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 12px;
   margin-top: 4px;
@@ -5023,7 +5074,7 @@ section.single-product-section .product-details span.tag-item {
   display: inline-block;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 0.6px;
   margin: 0 0 10px;
 }
@@ -5031,7 +5082,7 @@ section.single-product-section .product-details h1 {
   color: #222222;
   font-size: 36px;
   font-weight: 700;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 2px;
   text-transform: uppercase;
   margin: 0 0 10px;
@@ -5039,7 +5090,7 @@ section.single-product-section .product-details h1 {
 section.single-product-section .product-details span.price {
   display: block;
   color: #222222;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 24px;
   margin-bottom: 30px;
   letter-spacing: 1.8px;
@@ -5061,7 +5112,7 @@ section.single-product-section .product-details div.rating-line span.rev-num {
   margin-left: 5px;
   color: #888888;
   font-size: 11px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-transform: uppercase;
 }
 section.single-product-section .product-details div.product-desc {
@@ -5082,7 +5133,7 @@ section.single-product-section .product-details button {
   line-height: 35px;
   color: #888888;
   font-size: 13px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   outline: none;
   margin: 0px;
   padding: 0;
@@ -5101,7 +5152,7 @@ section.single-product-section .product-details input {
   line-height: 34px;
   color: #222222;
   font-size: 13px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   outline: none;
   text-align: center;
   padding: 0;
@@ -5118,7 +5169,7 @@ section.single-product-section .product-details > a {
   -o-transition: all 0.2s ease-in-out;
   padding: 9px 15px 6px;
   color: #222222;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 12px;
   margin-top: 4px;
@@ -5137,7 +5188,7 @@ section.single-product-section .product-details .prod-list-item {
 section.single-product-section .product-details .prod-list-item span {
   display: inline-block;
   color: #222222;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 0.7px;
@@ -5209,7 +5260,7 @@ section.single-product-section .single-prod-tab-box ul.nav-tabs li a {
   border-radius: 0px;
   color: #888888;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   border: 1px solid transparent;
   letter-spacing: 1.7px;
@@ -5235,13 +5286,13 @@ section.single-product-section .single-prod-tab-box .tab-pane p {
 section.single-product-section .product-reviews h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 14px;
   font-weight: 400;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 20px;
   margin-bottom: 25px;
 }
@@ -5258,13 +5309,13 @@ section.single-product-section .product-reviews ul li .review-content h2 {
   overflow: hidden;
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 14px;
   font-weight: 400;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 20px;
   margin-bottom: -6px;
 }
@@ -5280,7 +5331,7 @@ section.single-product-section .product-reviews ul li .review-content h2 span.ra
 section.single-product-section .product-reviews ul li .review-content span.time {
   font-size: 13px;
   color: #888888;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 20px;
   font-weight: 300;
   margin: 0 0 10px;
@@ -5307,7 +5358,7 @@ section.single-product-section .product-reviews form#review-form div.rate-line s
   display: inline-block;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   margin-right: 5px;
 }
@@ -5331,7 +5382,7 @@ section.single-product-section .product-reviews form#review-form div.rate-line a
 section.shop-section.related-products .shop-box h1 {
   color: #222222;
   font-size: 24px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1.9px;
@@ -5386,7 +5437,7 @@ section.shop-section .shop-box .scroller-posts-line .shop-post.item {
   border-bottom: 1px solid #eeeeee;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   letter-spacing: 0.6px;
 }
@@ -5396,7 +5447,7 @@ section.shop-section .shop-box .scroller-posts-line .shop-post.item {
   background: #fafafa;
   color: #888888;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -5416,12 +5467,12 @@ section.shop-section .shop-box .scroller-posts-line .shop-post.item {
 .checking-form .table td h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   margin: 0;
 }
@@ -5467,7 +5518,7 @@ section.shop-section .shop-box .scroller-posts-line .shop-post.item {
   line-height: 27px;
   color: #888888;
   font-size: 13px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   outline: none;
   margin: 0px;
   padding: 0;
@@ -5486,7 +5537,7 @@ section.shop-section .shop-box .scroller-posts-line .shop-post.item {
   line-height: 26px;
   color: #222222;
   font-size: 13px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   outline: none;
   text-align: center;
   padding: 0;
@@ -5513,7 +5564,7 @@ section.shop-section .shop-box .scroller-posts-line .shop-post.item {
   padding: 7px 20px;
   color: #cccccc;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   margin-bottom: 10px;
   width: 170px;
@@ -5536,7 +5587,7 @@ section.shop-section .shop-box .scroller-posts-line .shop-post.item {
   -o-transition: all 0.2s ease-in-out;
   padding: 7px 18px 6px;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #222222;
   background: transparent;
   border: none;
@@ -5560,7 +5611,7 @@ section.shop-section .shop-box .scroller-posts-line .shop-post.item {
 .checking-form .total-box .inner-total h2 {
   color: #222222;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -5571,7 +5622,7 @@ section.shop-section .shop-box .scroller-posts-line .shop-post.item {
   background: transparent;
   padding: 15px 0;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #888888;
   font-weight: 400;
   letter-spacing: 0.6px;
@@ -5581,7 +5632,7 @@ section.shop-section .shop-box .scroller-posts-line .shop-post.item {
 .checking-form .total-box .inner-total .table td span {
   color: #222222;
   font-size: 14px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -5607,7 +5658,7 @@ footer {
 }
 footer p {
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   margin-bottom: 0;
   color: #666;
@@ -5630,7 +5681,7 @@ footer ul.social-icons li a {
   -o-transition: all 0.2s ease-in-out;
   color: #666;
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   position: relative;
 }
@@ -6228,7 +6279,7 @@ header {
 .section-title h2 {
   color: #222222;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1.8px;
@@ -6244,7 +6295,7 @@ header {
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   margin: 0;
   text-align: center;
