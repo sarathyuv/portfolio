@@ -973,7 +973,6 @@ section.slider-with-thumbs .tp-caption.Newspaper-Title {
   width: 100%;
   position: relative;
   overflow: hidden;
-  border-radius: 20px;
   box-shadow: 0 8px 32px 0 rgba(22,24,26,0.11);
   height: 400px;
 }
@@ -1054,7 +1053,7 @@ section.slider-with-thumbs .tp-caption.Newspaper-Title {
   width: 330px;
 }
 .scroller-posts-line.second-style .item.snd-width {
-  width: 730px;
+  width: 900px;
 }
 /*-------------------------------------------------*/
 /* =  home-portfolio-masonry
@@ -4388,7 +4387,7 @@ h2.section-name span {
 
 section.contact-section {
   overflow: hidden;
-  /*padding-top: 124px;*/
+  padding: 0 0 150px;
 }
 section.contact-section .map-holder {
   width: 50%;
@@ -6305,6 +6304,52 @@ header {
   fill: #888888;
 }
 
+#work-section{
+  background: #e5e7eb;
+}
 
+#work-section h2 {
+  color: #03212C;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0 0 10px;
+  letter-spacing: 1.8px;
+  
+}
+#work-section .container h2 {
 
+  margin: 0 0 20px;
+  letter-spacing: 1.8px;
+  
+}
+
+#work-section ul {
+  margin: 0;
+  padding: 0;
+}
+#work-section p {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  color: #03212C;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 300;
+}
+#work-section ul li {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  color: #03212C;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 300;
+}
+
+#work-section .container {
+  
+  padding: 0 0 50px;
+}
 
