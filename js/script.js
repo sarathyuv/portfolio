@@ -544,7 +544,7 @@ $(document).ready(function($) {
 		var $this = $(this);
 		
 		$.ajax({
-			type: "POST",
+		
 			url: 'contact.php',
 			dataType: 'json',
 			cache: false,
