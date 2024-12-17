@@ -8,8 +8,8 @@
       // Set your email address where you want to receive emails. 
        $to = 'uvsarathy@gmail.com';
        $subject = 'Contact Request From sarathy porfolio';
-       $headers = "From: ".$name." <".$email."> \r\n";
-       $send_email = mail($to,$subject,$message,$headers);
+       $headers = "From: ".$name." <".$mail."> \r\n";
+       $send_email = mail($to,$subject,$comment,$headers);
 
        echo ($send_email) ? 'success' : 'error';
 
