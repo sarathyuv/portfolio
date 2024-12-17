@@ -3349,6 +3349,8 @@ section.about-me-section .about-me-box .personal-info h4 {
   padding: 10px 0 20px;
   font-family: "Poppins", sans-serif;
   letter-spacing: 0.6px;
+  -webkit-font-smoothing: antialiased;
+  
 }
 section.about-me-section .about-me-box .personal-info p {
   max-width: 550px;
