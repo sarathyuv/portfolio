@@ -544,10 +544,8 @@ $(document).ready(function($) {
 		var $this = $(this);
 		
 		$.ajax({
-		
 			url: 'contact.php',
-			dataType: 'json',
-			cache: false,
+			method: form.attr('method'),
 			data: $('#contact-form').serialize(),
 			success: function(data) {
 
@@ -559,6 +557,7 @@ $(document).ready(function($) {
 				}
 			}
 		});
+		return false;   
 	});
 	
 
