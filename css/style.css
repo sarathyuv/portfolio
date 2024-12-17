@@ -4387,7 +4387,7 @@ h2.section-name span {
 
 section.contact-section {
   overflow: hidden;
-  padding: 0 0 150px;
+  padding: 100px 0 100px;
 }
 section.contact-section .map-holder {
   width: 50%;
@@ -4405,8 +4405,8 @@ section.contact-section .contact-form-part {
   padding: 100px 0 0 100px;
   width: 50%;
 }
-section.contact-section .contact-form-part h1 {
-  color: #222222;
+section.contact-section  h1 {
+  color: #03212C;
   font-size: 36px;
   font-family: "Poppins", sans-serif;
   font-weight: 300;
@@ -4418,11 +4418,12 @@ section.contact-section .contact-form-part h1 {
   font-weight: 700;
   margin: 0 0 30px;
 }
-section.contact-section .contact-form-part p {
+section.contact-section  p {
   font-weight: 300;
   margin-bottom: 40px;
   font-size: 13px;
   letter-spacing: 1.3px;
+  color: #03212C;
 }
 form#contact-form,
 form#review-form {
@@ -6351,5 +6352,27 @@ header {
 #work-section .container {
   
   padding: 0 0 50px;
+}
+
+section.about-me-section ul {
+  margin: 0;
+  padding: 8px 0;
+  color: #888;
+}
+section.contact-section ul li {
+  display: inline-flex;
+  font-size: 16px;
+  align-items: center;
+  border: 1px dashed #888;
+  border-radius: 2em;
+  margin: 0 20px 20px 0;
+  padding: 5px 30px;
+  -webkit-transition: linear 0.1s;
+  transition: linear 0.1s;
+}
+
+section.contact-section ul li a {
+  text-decoration: none;
+  color: #008aee;
 }
 
