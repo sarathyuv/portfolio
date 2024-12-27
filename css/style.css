@@ -3837,6 +3837,7 @@ section.services-section2 {
 section.services-section2 .services-box .services-post {
   text-align: center;
   margin-bottom: 45px;
+ 
 }
 section.services-section2 .services-box .services-post > a {
   display: inline-block;
@@ -6363,22 +6364,68 @@ header {
 section.about-me-section ul {
   margin: 0;
   padding: 8px 0;
-  color: #888;
+  
+}
+section.contact-section ul {
+ 
+  margin: 0;
+  padding: 0;
+  
 }
 section.contact-section ul li {
   display: inline-flex;
-  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  
+}
+
+
+
+section.services-section2 .container .services-box .programming-skills .row ul {
+  margin: 0;
+  padding: 8px 0;
+  color: #888;
+}
+section.services-section2 .container .services-box .programming-skills .row ul li {
+  display: inline-flex;
+  font-size: 10px;
   align-items: center;
   border: 1px dashed #888;
   border-radius: 2em;
-  margin: 0 20px 20px 0;
-  padding: 5px 30px;
+  margin: 0 7px 10px 0;
+  padding: 0.5em 1em;
   -webkit-transition: linear 0.1s;
   transition: linear 0.1s;
 }
 
-section.contact-section ul li a {
+.work-post a, section.contact-section ul li a {
+  display: inline-flex;
+  font-size: 14px;
+  align-items: center;
+  
+  border-radius: 2em;
+  margin: 10px 7px 10px 0;
+  padding: 0.5em 2em;
+  -webkit-transition: linear 0.1s;
+  transition: linear 0.1s;
   text-decoration: none;
-  color: #008aee;
+  color: #E4F5F7;
+  background-color: #298389;
+
+}
+.work-post a:hover, section.contact-section ul li a:hover {
+  display: inline-flex;
+  font-size: 14px;
+  align-items: center;
+  
+  border-radius: 2em;
+  margin: 10px 7px 10px 0;
+  padding: 0.5em 2em;
+  -webkit-transition: linear 0.1s;
+  transition: linear 0.1s;
+  text-decoration: none;
+  color: #E4F5F7;
+  background-color: #194F52;
+
 }
 
