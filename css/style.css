@@ -6366,13 +6366,13 @@ section.about-me-section ul {
   padding: 8px 0;
   
 }
-section.contact-section ul {
+#work-section .work-post ul.work-links {
  
   margin: 0;
   padding: 0;
   
 }
-section.contact-section ul li {
+.work-post ul.work-links li.list {
   display: inline-flex;
   margin: 0;
   padding: 0;
@@ -6396,6 +6396,11 @@ section.services-section2 .container .services-box .programming-skills .row ul l
   padding: 0.5em 1em;
   -webkit-transition: linear 0.1s;
   transition: linear 0.1s;
+}
+.work-post a, section.contact-section ul li {
+  display: inline-flex;
+  margin: 0 7px 10px 0;
+  padding: 0.5em 1em;
 }
 
 .work-post a, section.contact-section ul li a {
