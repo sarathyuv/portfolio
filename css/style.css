@@ -76,7 +76,7 @@ header.active .navbar .navbar-brand {
   font-size: 16px;
   font-weight: lighter;
   padding-left: 10px;
-  color: #777777;
+  color: #ededed;
 }
 .navbar-nav > li {
   margin-left: 5px;
@@ -267,9 +267,10 @@ header.transparent-style a.open-menu span {
   background: #fff;
 }
 header.transparent-style.active .navbar-default {
-  background: #03212C;
+  background: #000;
   border-bottom: none;
   opacity: 0.85;
+  height: 91px;
 }
 header.without-border .navbar-default {
   border-bottom: none;
@@ -3257,7 +3258,7 @@ ul.pagination-list li:nth-child(2):after {
 section.about-me-section {
   
   padding: 30px 0 100px;
-  background: linear-gradient(to right top, #000000, #140e13, #1b1923, #192434, #073141);
+  background: linear-gradient(to right bottom, #4fd4d4, #02b3c8, #0091b8, #0070a2, #004f86, #25407b, #36306c, #411e5a, #5b1451, #6f0644, #7c0332, #82131f);
 }
 section.about-me-section .about-me-box {
   overflow: hidden;
@@ -3357,6 +3358,7 @@ section.about-me-section .about-me-box .personal-info p {
   letter-spacing: 0.6px;
   margin-bottom: 15px;
   font-size: 14px;
+  color: #cccccc;
 }
 section.about-me-section .about-me-box .personal-info .skills-box {
   max-width: 500px;
@@ -6415,7 +6417,7 @@ section.services-section2 .container .services-box .programming-skills .row ul l
   transition: linear 0.1s;
   text-decoration: none;
   color: #E4F5F7;
-  background-color: #298389;
+  background-color: #0091b8;
 
 }
 .work-post a:hover, section.contact-section ul li a:hover {
@@ -6430,7 +6432,7 @@ section.services-section2 .container .services-box .programming-skills .row ul l
   transition: linear 0.1s;
   text-decoration: none;
   color: #E4F5F7;
-  background-color: #194F52;
+  background-color: #36306c;
 
 }
 
