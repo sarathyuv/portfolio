@@ -55,7 +55,14 @@
 header.active .navbar .navbar-brand {
   opacity: 1;
   visibility: visible;
+  color: #41729F;
 }
+
+header.active .navbar .navbar-brand span {
+  color: #41729F;
+}
+
+
 
 .navbar .navbar-brand {
   /*visibility: hidden;*/
@@ -63,20 +70,24 @@ header.active .navbar .navbar-brand {
   height: auto;
   font-family: 'Yesteryear', cursive;
   font-size: 32px;
-  color: #ffffff;
+  color: #fff;
   /*opacity: 0;*/
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
 }
+.navbar a:hover.navbar-brand {
+  color: #fff;
+}
 
 .navbar .navbar-brand span {
   font-family: "Poppins", sans-serif;
-  font-size: 16px;
+  font-size: calc(var(--wQwVGw, .1rem)*18);
+  letter-spacing: 1.5px;
   font-weight: lighter;
   padding-left: 10px;
-  color: #ededed;
+  color: #fff;
 }
 .navbar-nav > li {
   margin-left: 5px;
@@ -99,8 +110,8 @@ header.active .navbar .navbar-brand {
 }
 .navbar-nav > li > a {
   padding: 35px 15px 30px;
-  color: #666666 !important;
-  font-size: 12px;
+  color: #fff !important;
+  font-size: calc(var(--wQwVGw, .1rem)*14);
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   transition: all 0.2s ease-in-out;
@@ -116,7 +127,7 @@ header.active .navbar .navbar-brand {
   content: '\f0d7';
   font-family: 'FontAwesome';
   font-size: 10px;
-  color: #666666;
+  color: #fff;
   line-height: 20px;
   top: 50%;
   margin-top: -9px;
@@ -258,18 +269,26 @@ header.transparent-style .navbar-default {
   -o-transition: all 0.2s ease-in-out;
 }
 header.transparent-style .navbar-nav > li > a {
-  color: #eeeeee !important;
+  color: #456990 !important;
+}
+
+header.transparent-style .navbar-nav > li > a.active {
+  color: #000 !important;
+}
+
+header.transparent-style .navbar-nav > li > a:hover{
+  color: #000 !important;
 }
 header.transparent-style .navbar-nav > li.drop-arrow > a:after {
-  color: #eeeeee;
+  color: #456990;
 }
 header.transparent-style a.open-menu span {
   background: #fff;
 }
 header.transparent-style.active .navbar-default {
-  background: #000;
+  background: #fff;
   border-bottom: none;
-  opacity: 0.85;
+  opacity: 1;
   height: 91px;
 }
 header.without-border .navbar-default {
@@ -1388,7 +1407,8 @@ section.main-title h2 {
 }
 .services-section2 .services-box .services-post p {
   color: #222222;
-  font-size: 14px;
+  font-size: calc(var(--wQwVGw, .1rem)*16);
+  line-height: calc(var(--wQwVGw, .1rem)*26);
   font-family: "Poppins", sans-serif; 
   margin: 0 0 10px;
   
@@ -3258,7 +3278,7 @@ ul.pagination-list li:nth-child(2):after {
 section.about-me-section {
   
   padding: 30px 0 100px;
-  background: linear-gradient(to right bottom, #4fd4d4, #02b3c8, #0091b8, #0070a2, #004f86, #25407b, #36306c, #411e5a, #5b1451, #6f0644, #7c0332, #82131f);
+  background: #8acfef;
 }
 section.about-me-section .about-me-box {
   overflow: hidden;
@@ -3274,6 +3294,7 @@ section.about-me-section .about-me-box .my-identity {
 section.about-me-section .about-me-box .my-identity > img {
   width: 50%;
   border-radius: 75%;
+  opacity: 0.80;
 }
 section.about-me-section .about-me-box .my-identity .hover-about {
   position: absolute;
@@ -3291,11 +3312,11 @@ section.about-me-section .about-me-box .my-identity .hover-about h1 {
     letter-spacing: 5px;
     margin: 0;
     -webkit-text-fill-color: transparent;
-    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: #fff;
 }
 section.about-me-section .about-me-box .my-identity .hover-about h2 {
-  color: #ffffff;
+  color: #fff;
   font-size: 30px;
   font-family: "Poppins", sans-serif;
   font-weight: 300;
@@ -3316,13 +3337,13 @@ section.about-me-section .about-me-box .personal-info {
   float: right;
 }
 section.about-me-section .about-me-box .personal-info h1 {
-  color: #cccccc;
+  color: #fff;
   font-size: 36px;
   font-family: "Poppins", sans-serif;
   font-weight: 300;
   letter-spacing: 2px;
   margin: 0 0 15px;
-  text-transform: uppercase;
+ 
   -webkit-font-smoothing: antialiased;
   line-height: 42px;
 
@@ -3337,7 +3358,7 @@ section.about-me-section .about-me-box .personal-info .statistic-box h1, section
   padding: 0;
 }
 section.about-me-section .about-me-box .personal-info .statistic-box h3 {
-  color: #cccccc;
+  color: #fff;
   font-size: 16px;
   font-weight: 100;
   letter-spacing: 1px;
@@ -3346,19 +3367,22 @@ section.about-me-section .about-me-box .personal-info .statistic-box h3 {
 }
 
 section.about-me-section .about-me-box .personal-info h4 {
-  color: #cccccc;
+  color: #fff;
   padding: 10px 0 20px;
   font-family: "Poppins", sans-serif;
   letter-spacing: 0.6px;
   -webkit-font-smoothing: antialiased;
+  line-height: 26px;
   
 }
 section.about-me-section .about-me-box .personal-info p {
-  max-width: 550px;
-  letter-spacing: 0.6px;
+  max-width: 600px;
+  
   margin-bottom: 15px;
-  font-size: 14px;
-  color: #cccccc;
+  font-size: calc(var(--wQwVGw, .1rem)*16);
+  line-height: calc(var(--wQwVGw, .1rem)*26);
+  color: #fff;
+ 
 }
 section.about-me-section .about-me-box .personal-info .skills-box {
   max-width: 500px;
@@ -3770,11 +3794,11 @@ div.title-section {
   text-align: center;
 }
 div.title-section h1 {
-  color: #222222;
+  color: #274472;
   font-size: 36px;
   font-family: "Poppins", sans-serif;
   margin: 0;
-  font-weight: 700;
+  font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
@@ -3856,10 +3880,10 @@ section.services-section2 .services-box .services-post > a:hover {
   opacity: 0.7;
 }
 section.services-section2 .services-box .services-post h2 {
-  color: #03212C;
+  color: #41729F;
   font-size: 18px;
   font-family: "Poppins", sans-serif;
-  font-weight: 700;
+  font-weight: 300;
   text-transform: uppercase;
   margin: 0 0 10px;
   letter-spacing: 1.8px;
@@ -4411,22 +4435,23 @@ section.contact-section .contact-form-part {
   width: 50%;
 }
 section.contact-section  h1 {
-  color: #03212C;
+  color: #274472;
   font-size: 36px;
   font-family: "Poppins", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: 2px;
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
   font-family: "Poppins", sans-serif;
-  font-weight: 700;
+
   margin: 0 0 30px;
 }
 section.contact-section  p {
   font-weight: 300;
   margin-bottom: 40px;
-  font-size: 13px;
+  font-size: calc(var(--wQwVGw, .1rem)*16);
+  line-height: calc(var(--wQwVGw, .1rem)*26);
   letter-spacing: 1.3px;
   color: #03212C;
 }
@@ -5654,7 +5679,7 @@ section.shop-section .shop-box .scroller-posts-line .shop-post.item {
 
 footer {
   padding: 25px 50px;
-  background: #000;
+  background: #274472;
   position: relative;
   width:100%;
   /*bottom: 0;*/
@@ -5666,7 +5691,7 @@ footer p {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   margin-bottom: 0;
-  color: #666;
+  color: #EEF9FF;
 }
 footer ul.social-icons {
   margin: 0;
@@ -5684,7 +5709,7 @@ footer ul.social-icons li a {
   -moz-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
-  color: #666;
+  color: #EEF9FF;
   font-size: 12px;
   font-family: "Poppins", sans-serif;
   font-weight: 300;
@@ -6282,7 +6307,7 @@ header {
 }
 
 .section-title h2 {
-  color: #222222;
+  color: #274472;
   font-size: 18px;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -6293,15 +6318,15 @@ header {
 }
 
 .section-title h1 {
-  color: #222222;
+  color: #274472;
   font-size: 36px;
-  font-weight: 300;
+ 
   letter-spacing: 2px;
   margin: 0 0 12px;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
   font-family: "Poppins", sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   margin: 0;
   text-align: center;
 }
@@ -6311,14 +6336,14 @@ header {
 }
 
 #work-section{
-  background: #e5e7eb;
+  background: #EEF9FF;
 }
 
 #work-section h2 {
   color: #03212C;
   font-size: 18px;
   font-family: "Poppins", sans-serif;
-  font-weight: 700;
+  font-weight: 300;
   text-transform: uppercase;
   margin: 0 0 10px;
   letter-spacing: 1.8px;
@@ -6344,7 +6369,8 @@ header {
   padding: 0;
   font-family: "Poppins", sans-serif;
   color: #03212C;
-  font-size: 14px;
+  font-size: calc(var(--wQwVGw, .1rem)*16);
+  line-height: calc(var(--wQwVGw, .1rem)*26);
   -webkit-font-smoothing: antialiased;
   font-weight: 300;
 }
@@ -6353,7 +6379,8 @@ header {
   padding: 5px 0;
   font-family: "Poppins", sans-serif;
   color: #03212C;
-  font-size: 14px;
+  font-size: calc(var(--wQwVGw, .1rem)*16);
+  line-height: calc(var(--wQwVGw, .1rem)*26);
   -webkit-font-smoothing: antialiased;
   font-weight: 300;
 }
@@ -6407,7 +6434,7 @@ section.services-section2 .container .services-box .programming-skills .row ul l
 
 .work-post a, section.contact-section ul li a {
   display: inline-flex;
-  font-size: 14px;
+  font-size: calc(var(--wQwVGw, .1rem)*16);
   align-items: center;
   
   border-radius: 2em;
@@ -6417,12 +6444,12 @@ section.services-section2 .container .services-box .programming-skills .row ul l
   transition: linear 0.1s;
   text-decoration: none;
   color: #E4F5F7;
-  background-color: #0091b8;
+  background-color: #41729F;
 
 }
 .work-post a:hover, section.contact-section ul li a:hover {
   display: inline-flex;
-  font-size: 14px;
+  font-size: calc(var(--wQwVGw, .1rem)*16);
   align-items: center;
   
   border-radius: 2em;
@@ -6432,7 +6459,7 @@ section.services-section2 .container .services-box .programming-skills .row ul l
   transition: linear 0.1s;
   text-decoration: none;
   color: #E4F5F7;
-  background-color: #36306c;
+  background-color: #274472;
 
 }
 
