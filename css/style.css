@@ -3881,7 +3881,7 @@ section.services-section2 .services-box .services-post > a:hover {
   opacity: 0.7;
 }
 section.services-section2 .services-box .services-post h2 {
-  color: #41729F;
+  color: #C5A61B;
   font-size: 18px;
   font-family: "Poppins", sans-serif;
   font-weight: 300;
@@ -6350,7 +6350,7 @@ header {
 }
 
 #work-section h2 {
-  color: #03212C;
+  color: #C5A61B;
   font-size: 18px;
   font-family: "Poppins", sans-serif;
   font-weight: 300;
@@ -6453,8 +6453,8 @@ section.services-section2 .container .services-box .programming-skills .row ul l
   -webkit-transition: linear 0.1s;
   transition: linear 0.1s;
   text-decoration: none;
-  color: #E4F5F7;
-  background-color: #41729F;
+  color: #FFF;
+  background-color: #C5A61B;
 
 }
 .work-post a:hover, section.contact-section ul li a:hover {
@@ -6468,8 +6468,8 @@ section.services-section2 .container .services-box .programming-skills .row ul l
   -webkit-transition: linear 0.1s;
   transition: linear 0.1s;
   text-decoration: none;
-  color: #E4F5F7;
-  background-color: #274472;
+  color: #FFF;
+  background-color: #877112;
 
 }
 
