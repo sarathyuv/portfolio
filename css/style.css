@@ -3277,8 +3277,9 @@ ul.pagination-list li:nth-child(2):after {
 /*-------------------------------------------------*/
 section.about-me-section {
   
-  padding: 30px 0 100px;
+  padding: 30px 0 70px;
   background: #47B4E6;
+  border-bottom: 20px solid #EFDD8A;
 }
 section.about-me-section .about-me-box {
   overflow: hidden;
