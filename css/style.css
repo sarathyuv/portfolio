@@ -3278,7 +3278,7 @@ ul.pagination-list li:nth-child(2):after {
 section.about-me-section {
   
   padding: 30px 0 70px;
-  background: #47B4E6;
+  background: linear-gradient(to bottom, #8acfef, #82c8e8, #79c0e0, #71b9d9, #68b2d2, #62abcb, #5da5c3, #579ebc, #5397b3, #4e8fab, #4a88a2, #46819a);
   border-bottom: 20px solid #EFDD8A;
 }
 section.about-me-section .about-me-box {
@@ -3294,8 +3294,9 @@ section.about-me-section .about-me-box .my-identity {
 }
 section.about-me-section .about-me-box .my-identity > img {
   width: 50%;
-  border-radius: 75%;
+  border-radius: 100%;
   opacity: 0.80;
+  border:20px solid #1C3A46;
 }
 section.about-me-section .about-me-box .my-identity .hover-about {
   position: absolute;
