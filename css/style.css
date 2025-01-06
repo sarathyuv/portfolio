@@ -269,18 +269,18 @@ header.transparent-style .navbar-default {
   -o-transition: all 0.2s ease-in-out;
 }
 header.transparent-style .navbar-nav > li > a {
-  color: #456990 !important;
+  color: #61626B !important;
 }
 
 header.transparent-style .navbar-nav > li > a.active {
-  color: #000 !important;
+  color: #F3501F !important;
 }
 
 header.transparent-style .navbar-nav > li > a:hover{
-  color: #000 !important;
+  color: #F3501F !important;
 }
 header.transparent-style .navbar-nav > li.drop-arrow > a:after {
-  color: #456990;
+  color: #61626B;
 }
 header.transparent-style a.open-menu span {
   background: #fff;
@@ -3278,8 +3278,10 @@ ul.pagination-list li:nth-child(2):after {
 section.about-me-section {
   
   padding: 30px 0 70px;
-  background: linear-gradient(to bottom, #8acfef, #82c8e8, #79c0e0, #71b9d9, #68b2d2, #62abcb, #5da5c3, #579ebc, #5397b3, #4e8fab, #4a88a2, #46819a);
-  border-bottom: 20px solid #EFDD8A;
+  /* background: linear-gradient(to bottom, #8acfef, #82c8e8, #79c0e0, #71b9d9, #68b2d2, #62abcb, #5da5c3, #579ebc, #5397b3, #4e8fab, #4a88a2, #46819a); */
+  /* border-bottom: 20px solid #EFDD8A; */
+  background: linear-gradient(to right top, #202a34, #1b242c, #161e25, #12181e, #0b1217);
+
 }
 section.about-me-section .about-me-box {
   overflow: hidden;
@@ -3294,9 +3296,8 @@ section.about-me-section .about-me-box .my-identity {
 }
 section.about-me-section .about-me-box .my-identity > img {
   width: 50%;
-  border-radius: 100%;
-  opacity: 0.80;
-  border:20px solid #1C3A46;
+  opacity: 0.50;
+
 }
 section.about-me-section .about-me-box .my-identity .hover-about {
   position: absolute;
@@ -3383,7 +3384,7 @@ section.about-me-section .about-me-box .personal-info p {
   margin-bottom: 15px;
   font-size: calc(var(--wQwVGw, .1rem)*16);
   line-height: calc(var(--wQwVGw, .1rem)*26);
-  color: #fff;
+  color: #798089;
  
 }
 section.about-me-section .about-me-box .personal-info .skills-box {
@@ -3882,7 +3883,7 @@ section.services-section2 .services-box .services-post > a:hover {
   opacity: 0.7;
 }
 section.services-section2 .services-box .services-post h2 {
-  color: #C5A61B;
+  color: #9B2B08;
   font-size: 18px;
   font-family: "Poppins", sans-serif;
   font-weight: 300;
@@ -6351,7 +6352,7 @@ header {
 }
 
 #work-section h2 {
-  color: #C5A61B;
+  color: #9B2B08;
   font-size: 18px;
   font-family: "Poppins", sans-serif;
   font-weight: 300;
@@ -6455,7 +6456,7 @@ section.services-section2 .container .services-box .programming-skills .row ul l
   transition: linear 0.1s;
   text-decoration: none;
   color: #FFF;
-  background-color: #C5A61B;
+  background-color: #403E45;
 
 }
 .work-post a:hover, section.contact-section ul li a:hover {
@@ -6470,7 +6471,7 @@ section.services-section2 .container .services-box .programming-skills .row ul l
   transition: linear 0.1s;
   text-decoration: none;
   color: #FFF;
-  background-color: #877112;
+  background-color: #9B2B08;
 
 }
 
