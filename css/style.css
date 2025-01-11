@@ -1396,9 +1396,7 @@ section.main-title h2 {
 }
 .services-section .services-box .services-post h2 {
   color: #222222;
-  font-size: 18px;
-  font-family: "Poppins", sans-serif;
-  font-weight: 700;
+  font-size: calc(var(--wQwVGw, .1rem)*18);
   text-transform: uppercase;
   margin: 0 0 10px;
   font-family: "Poppins", sans-serif;
@@ -1407,7 +1405,7 @@ section.main-title h2 {
 }
 .services-section2 .services-box .services-post p {
   color: #222222;
-  font-size: calc(var(--wQwVGw, .1rem)*16);
+  font-size: calc(var(--wQwVGw, .1rem)*18);
   line-height: calc(var(--wQwVGw, .1rem)*26);
   font-family: "Poppins", sans-serif; 
   margin: 0 0 10px;
@@ -3376,13 +3374,13 @@ section.about-me-section .about-me-box .personal-info h4 {
   letter-spacing: 0.6px;
   -webkit-font-smoothing: antialiased;
   line-height: 26px;
+  font-size: calc(var(--wQwVGw, .1rem)*18);
   
 }
 section.about-me-section .about-me-box .personal-info p {
   max-width: 600px;
-  
   margin-bottom: 15px;
-  font-size: calc(var(--wQwVGw, .1rem)*16);
+  font-size: calc(var(--wQwVGw, .1rem)*18);
   line-height: calc(var(--wQwVGw, .1rem)*26);
   color: #798089;
  
@@ -3884,7 +3882,7 @@ section.services-section2 .services-box .services-post > a:hover {
 }
 section.services-section2 .services-box .services-post h2 {
   color: #9B2B08;
-  font-size: 18px;
+  font-size: calc(var(--wQwVGw, .1rem)*20);
   font-family: "Poppins", sans-serif;
   font-weight: 300;
   text-transform: uppercase;
